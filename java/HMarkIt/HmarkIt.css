@@ -1,0 +1,38 @@
+.markit_quote{
+    color: #7777a3;
+    padding-left: 2px;
+    border: solid;
+    border-width: 0 0;
+    border-left-width: 2px;
+    border-color: #dfe2e5;
+    font-size:15px;
+    padding-left: 10px;
+}
+
+.markit_line{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 1px;
+    width: 100%;
+    background-color:#dfe2e5 ;
+}
+
+.markit_hyperlink{
+    color: #4183c4;
+}
+
+.markit_table:hover{
+    background-color: #f5f6f7;
+}
+
+.markit_table{
+    width: 100%;
+    border-style: solid;
+    border-collapse: collapse;
+    border: 2px solid #ddd;
+}
+
+.markit_table tr,td{
+    border: 2px solid #ddd;
+    padding: 8px;
+}

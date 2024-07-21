@@ -43,3 +43,5 @@ MarkIt.*MdToHtml*("##This is right")
 ## This is right
 
 可以使用MarkItUtils.*ReadFile*(路径);读取md文件，返回String,直接放入MarkIt.*MdToHtml*即可
+
+记得引入HmarkIt.css
